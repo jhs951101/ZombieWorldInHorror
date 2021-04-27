@@ -1,0 +1,1896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+<<<<<<< HEAD
+  <class id="1" language="java" name="com.example.sharping.loveliveinhorror.SmallZombie" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/SmallZombie.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="136" width="407" x="2814" y="3051"/>    
+=======
+  <class id="1" language="java" name="com.example.catchmitsuhataki.RoomClient" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/RoomClient.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1362" y="1120"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="2" language="java" name="com.example.sharping.loveliveinhorror.Length" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/Length.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="236" width="252" x="4673" y="3051"/>    
+=======
+  <class id="2" language="java" name="com.example.catchmitsuhataki.RoomClientTerminator" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/RoomClientTerminator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1247" y="887"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="3" language="java" name="com.example.sharping.loveliveinhorror.SwordEffect" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/SwordEffect.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="96" width="255" x="2835" y="3527"/>    
+=======
+  <class id="3" language="java" name="com.example.catchmitsuhataki.SlowItem" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/SlowItem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2890" y="425"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="4" language="java" name="com.example.sharping.loveliveinhorror.ShotGunEffect" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/ShotGunEffect.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="96" width="270" x="3130" y="3527"/>    
+=======
+  <class id="4" language="java" name="com.example.catchmitsuhataki.RoomClient.Sender" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/RoomClient.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1235" y="1373"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="5" language="java" name="com.example.sharping.loveliveinhorror.ZombieDeadEffect" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/ZombieDeadEffect.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="96" width="252" x="3440" y="3527"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.example.sharping.loveliveinhorror.CountTimer" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/CountTimer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="197" width="252" x="461" y="-1297"/>    
+=======
+  <class id="5" language="java" name="com.example.catchmitsuhataki.Honoka" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/Honoka.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2860" y="1433"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="7" language="java" name="com.example.sharping.loveliveinhorror.GameView" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/GameView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="2976" width="359" x="4337" y="-1297"/>    
+=======
+  <class id="6" language="java" name="com.example.catchmitsuhataki.MainActivity" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/MainActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1730" y="1377"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="8" language="java" name="com.example.sharping.loveliveinhorror.SoundEffect" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/SoundEffect.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="256" width="270" x="4295" y="3051"/>    
+=======
+  <class id="7" language="java" name="com.example.catchmitsuhataki.GameClient.Sender" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/GameClient.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="116" width="201" x="1492" y="367"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="9" language="java" name="com.example.sharping.loveliveinhorror.Zombie" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/Zombie.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="956" width="365" x="3260" y="2055"/>    
+=======
+  <class id="8" language="java" name="com.example.catchmitsuhataki.SelectActivity" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/SelectActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2378" y="10"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="10" language="java" name="com.example.sharping.loveliveinhorror.HitPointTimer" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/HitPointTimer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="256" width="286" x="1064" y="3527"/>    
+=======
+  <class id="9" language="java" name="com.example.catchmitsuhataki.ItemManager" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/ItemManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2528" y="1135"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="11" language="java" name="com.example.sharping.loveliveinhorror.GameClearMusic" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/GameClearMusic.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="116" width="252" x="1756" y="2055"/>    
+=======
+  <class id="10" language="java" name="com.example.catchmitsuhataki.GameActivity" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/GameActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1725" y="1201"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <interface id="12" language="java" name="com.example.sharping.loveliveinhorror.ZombiePower" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/ZombiePower.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="136" width="315" x="2125" y="3051"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="com.example.sharping.loveliveinhorror.DamageBackColorShow" 
+    project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/DamageBackColorShow.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="252" x="1464" y="2055"/>    
+=======
+  <class id="11" language="java" name="com.example.catchmitsuhataki.SoundEffect" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/SoundEffect.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2594" y="1442"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="14" language="java" name="com.example.sharping.loveliveinhorror.BossZombie" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/BossZombie.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="436" width="495" x="1443" y="3051"/>    
+=======
+  <class id="12" language="java" name="com.example.catchmitsuhataki.CountSoundEffect" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/CountSoundEffect.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2318" y="1699"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="15" language="java" name="com.example.sharping.loveliveinhorror.HasZombiePower" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/HasZombiePower.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="216" width="316" x="753" y="2055"/>    
+=======
+  <class id="13" language="java" name="com.example.catchmitsuhataki.RoomActivity" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/RoomActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1246" y="36"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="16" language="java" name="com.example.sharping.loveliveinhorror.MainActivity" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/MainActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="136" width="252" x="1854" y="1719"/>    
+=======
+  <class id="14" language="java" name="com.example.catchmitsuhataki.GameClient.Receiver" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/GameClient.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="116" width="201" x="1733" y="367"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="17" language="java" name="com.example.sharping.loveliveinhorror.GameOverMusic" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/GameOverMusic.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="116" width="252" x="2048" y="2055"/>    
+=======
+  <class id="15" language="java" name="com.example.catchmitsuhataki.RoomClient.Receiver" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/RoomClient.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1482" y="1377"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="18" language="java" name="com.example.sharping.loveliveinhorror.HitPosition" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/HitPosition.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="236" width="288" x="1973" y="3823"/>    
+=======
+  <class id="16" language="java" name="com.example.catchmitsuhataki.TextHandler" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/TextHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2326" y="1432"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="19" language="java" name="com.example.sharping.loveliveinhorror.WeaponInfo" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/WeaponInfo.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="296" width="252" x="2795" y="4099"/>    
+=======
+  <class id="17" language="java" name="com.example.catchmitsuhataki.NoItem" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/NoItem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2884" y="574"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="20" language="java" name="com.example.sharping.loveliveinhorror.HasNoZombiePower" 
+    project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/HasNoZombiePower.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="156" width="315" x="1109" y="2055"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.example.sharping.loveliveinhorror.Position" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/Position.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="236" width="252" x="2781" y="1719"/>    
+=======
+  <class id="18" language="java" name="com.example.catchmitsuhataki.PlaySoundEffect" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/PlaySoundEffect.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2568" y="1699"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="22" language="java" name="com.example.sharping.loveliveinhorror.GrenadeEffect" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/GrenadeEffect.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="96" width="271" x="3732" y="3527"/>    
+=======
+  <class id="19" language="java" name="com.example.catchmitsuhataki.RoomView" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/RoomView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1417" y="563"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="23" language="java" name="com.example.sharping.loveliveinhorror.IntroMusic" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/IntroMusic.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="116" width="252" x="2340" y="2055"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.example.sharping.loveliveinhorror.BtnReleasedEffect" 
+    project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/BtnReleasedEffect.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="96" width="300" x="4043" y="3527"/>    
+=======
+  <class id="20" language="java" name="com.example.catchmitsuhataki.ShortItem" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/ShortItem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2890" y="279"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="25" language="java" name="com.example.sharping.loveliveinhorror.GameMusic" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/GameMusic.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="116" width="254" x="2632" y="2055"/>    
+=======
+  <class id="21" language="java" name="com.example.catchmitsuhataki.DeadSoundEffect" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/DeadSoundEffect.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2816" y="1699"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="26" language="java" name="com.example.sharping.loveliveinhorror.DeadEffectTimer" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/DeadEffectTimer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="116" width="519" x="3094" y="1719"/>    
+=======
+  <class id="22" language="java" name="com.example.catchmitsuhataki.Kotori" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/Kotori.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2533" y="686"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="27" language="java" name="com.example.sharping.loveliveinhorror.KnockOutTimer" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/KnockOutTimer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="156" width="252" x="461" y="2055"/>    
+=======
+  <class id="23" language="java" name="com.example.catchmitsuhataki.ReturnItem" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/ReturnItem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2893" y="132"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="28" language="java" name="com.example.sharping.loveliveinhorror.BackgroundMusic" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/BackgroundMusic.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="237" width="254" x="2487" y="1719"/>    
+=======
+  <class id="24" language="java" name="com.example.catchmitsuhataki.UserInfo" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/UserInfo.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1485" y="37"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="29" language="java" name="com.example.sharping.loveliveinhorror.GameManager" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/GameManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="296" width="537" x="3674" y="1719"/>    
+=======
+  <class id="25" language="java" name="com.example.catchmitsuhataki.GameClient" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/GameClient.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="176" width="232" x="1733" y="-69"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="30" language="java" name="com.example.sharping.loveliveinhorror.GunEffect" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/GunEffect.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="96" width="252" x="4383" y="3527"/>    
+=======
+  <class id="26" language="java" name="com.example.catchmitsuhataki.GameView" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/GameView.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2036" y="1160"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="31" language="java" name="com.example.sharping.loveliveinhorror.ImageString" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/ImageString.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="196" width="280" x="2146" y="1719"/>    
+=======
+  <class id="27" language="java" name="com.example.catchmitsuhataki.LongItem" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/LongItem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2887" y="-10"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="32" language="java" name="com.example.sharping.loveliveinhorror.ZombieLaughEffect" 
+    project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/ZombieLaughEffect.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="96" width="252" x="4675" y="3527"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="com.example.sharping.loveliveinhorror.DamageEffectTimer" 
+    project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/DamageEffectTimer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="350" x="1464" y="1719"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="com.example.sharping.loveliveinhorror.ZombieDeadEffectShow" 
+    project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/ZombieDeadEffectShow.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="252" x="2501" y="3051"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="com.example.sharping.loveliveinhorror.BigZombie" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/BigZombie.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="116" width="392" x="3261" y="3051"/>    
+=======
+  <class id="28" language="java" name="com.example.catchmitsuhataki.Item" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/Item.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2628" y="110"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <class id="36" language="java" name="com.example.sharping.loveliveinhorror.TouchPosition" project="LoveLiveInHorror" 
+    file="/LoveLiveInHorror/app/src/main/java/com/example/sharping/loveliveinhorror/TouchPosition.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="136" width="252" x="2947" y="2055"/>    
+=======
+  <class id="29" language="java" name="com.example.catchmitsuhataki.ConnectActivity" project="CatchMitsuhaTaki" 
+    file="/CatchMitsuhaTaki/app/src/main/java/com/example/catchmitsuhataki/ConnectActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2121" y="70"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+<<<<<<< HEAD
+  <association id="37">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="38" name="popupBtnConfirmPosition"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="41">    
+    <bendpoint x="4535" y="1719"/>    
+    <bendpoint x="4535" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="42" name="heartIconLength"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="44">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="45" name="imgNumOfKill"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <bendpoint x="4241" y="1719"/>    
+    <bendpoint x="4220" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="48" name="secondaryWeaponEffect"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="51" name="btnStagePositions"/>      
+      <multiplicity id="52" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <bendpoint x="4325" y="1719"/>    
+    <bendpoint x="4325" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="54" name="shotgunEffect"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <bendpoint x="4892" y="1719"/>    
+    <bendpoint x="4892" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="57" name="btnSelectSecondaryWpnLength"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="60" name="btnChangeWeaponPosition"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <bendpoint x="4577" y="1719"/>    
+    <bendpoint x="4577" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="63" name="btnSelectPrimaryWpnLength"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="66" name="gameMusic"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="69" name="manager"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="71">    
+    <bendpoint x="4766" y="1719"/>    
+    <bendpoint x="4766" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="72" name="shotgunIconLength"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="74">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="75">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="76" name="zImageLength"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="79" name="txtSelectStagePosition"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="81">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="82" name="primaryWeaponIconPosition"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="84">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <association id="85">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="86" name="zombie"/>      
+      <multiplicity id="87" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="88">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="89" name="zombieDeadEffect"/>      
+      <multiplicity id="90" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="91">    
+    <bendpoint x="4556" y="1719"/>    
+    <bendpoint x="4556" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="92" name="txtTotalScoreLength"/>      
+      <multiplicity id="93" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="94">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="95">    
+    <bendpoint x="2094" y="3051"/>    
+    <bendpoint x="2314" y="3527"/>    
+    <bendpoint x="2314" y="3823"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="96" name="playerWeapon"/>      
+      <multiplicity id="97" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="98">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="99" name="zombies"/>      
+      <multiplicity id="100" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="101">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <association id="102">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="103" name="zombieDeadEffectShow"/>      
+      <multiplicity id="104" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="105">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="106" name="btnSelectPrimaryWpnPosition"/>      
+      <multiplicity id="107" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="108">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="109" name="btnNextStagePosition"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="111">    
+    <bendpoint x="4262" y="1719"/>    
+    <bendpoint x="4241" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="112" name="releasedEffectState"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <bendpoint x="4409" y="2055"/>    
+    <bendpoint x="4409" y="1719"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="115" name="gameView"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="118" name="introMusic"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <bendpoint x="4472" y="1719"/>    
+    <bendpoint x="4472" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="121" name="btnBackLength"/>      
+      <multiplicity id="122" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="123">    
+    <bendpoint x="4514" y="1719"/>    
+    <bendpoint x="4514" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="124" name="btnNextStageLength"/>      
+      <multiplicity id="125" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="126">    
+    <bendpoint x="4640" y="1719"/>    
+    <bendpoint x="4640" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="127" name="grenadeIconLength"/>      
+      <multiplicity id="128" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="129">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="130">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="131" name="btnExitPosition"/>      
+      <multiplicity id="132" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="133">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="134">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="135" name="gameClearMusic"/>      
+      <multiplicity id="136" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="137">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="138" name="secondaryWeaponIconPosition"/>      
+      <multiplicity id="139" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="140">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="141" name="damagedBackColorShow"/>      
+      <multiplicity id="142" minimum="0" maximum="1"/>    
+=======
+  <generalization id="30">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <association id="31">    
+    <bendpoint x="1118" y="772"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="32" name="activity"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="35" name="sender"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <bendpoint x="1388" y="367"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="38" name="view"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="41" name="view"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <association id="44">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="45" name="deadsoundeffect"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="48" name="texthandler"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="51" name="view"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="53">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <association id="54">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="55" name="receiver"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="57">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <association id="58">    
+    <bendpoint x="2738" y="367"/>    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="59" name="item"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="61">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="14"/>  
+  </nesting>  
+  <association id="62">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="63" name="taki"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <bendpoint x="2841" y="1043"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="66" name="itemManager"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <bendpoint x="2799" y="1043"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="69" name="honoka"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="71">    
+    <bendpoint x="2717" y="367"/>    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="72" name="view"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="74">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="75">    
+    <bendpoint x="2778" y="1043"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="76" name="countsoundeffect"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="79" name="receiver"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="81">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="82" name="view"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="84">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="85" name="texthandler"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="87">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="88">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="89" name="playsoundeffect"/>      
+      <multiplicity id="90" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="91">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="92" name="sender"/>      
+      <multiplicity id="93" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="94">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="95" name="view"/>      
+      <multiplicity id="96" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="97">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="98" name="activity"/>      
+      <multiplicity id="99" minimum="0" maximum="1"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+<<<<<<< HEAD
+  <association id="143">    
+    <bendpoint x="3643" y="1719"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="144" name="zombies"/>      
+      <multiplicity id="145" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="146">    
+    <bendpoint x="1717" y="3527"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="147" name="hitPoints"/>      
+      <multiplicity id="148" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="149">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="150" name="btnSelectSecondaryWpnPosition"/>      
+      <multiplicity id="151" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="152">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="153" name="gunIconPosition"/>      
+      <multiplicity id="154" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="155">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="156" name="activity"/>      
+      <multiplicity id="157" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="158">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="159" name="hpTimer"/>      
+      <multiplicity id="160" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="161">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="162" name="zombie"/>      
+      <multiplicity id="163" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="164">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="165" name="grenadeIconPosition"/>      
+      <multiplicity id="166" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="167">    
+    <bendpoint x="4598" y="1719"/>    
+    <bendpoint x="4598" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="168" name="gunIconLength"/>      
+      <multiplicity id="169" minimum="0" maximum="1"/>    
+=======
+  <association id="100">    
+    <bendpoint x="1109" y="664"/>    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="101" name="terminator"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+<<<<<<< HEAD
+  <association id="170">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="171" name="imgLevelStage"/>      
+      <multiplicity id="172" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="173">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="174" name="zombiePower"/>      
+      <multiplicity id="175" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="176">    
+    <bendpoint x="4871" y="1719"/>    
+    <bendpoint x="4871" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="177" name="resizedEndLineLength"/>      
+      <multiplicity id="178" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="179">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="180" name="txtCurrentStaminaPosition"/>      
+      <multiplicity id="181" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="182">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="183" name="bgMusicState"/>      
+      <multiplicity id="184" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="185">    
+    <bendpoint x="4787" y="1719"/>    
+    <bendpoint x="4787" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="186" name="btnChangeWeaponLength"/>      
+      <multiplicity id="187" minimum="0" maximum="1"/>    
+=======
+  <association id="103">    
+    <bendpoint x="1367" y="367"/>    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="104" name="client"/>      
+      <multiplicity id="105" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="106">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="107" name="client"/>      
+      <multiplicity id="108" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="109">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="110" name="userinfos"/>      
+      <multiplicity id="111" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="112">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="113" name="terminator"/>      
+      <multiplicity id="114" minimum="0" maximum="1"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+<<<<<<< HEAD
+  <association id="188">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="189" name="zombieLaughEffect"/>      
+      <multiplicity id="190" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="191">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="192" name="shotgunIconPosition"/>      
+      <multiplicity id="193" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="194">    
+    <bendpoint x="4682" y="1719"/>    
+    <bendpoint x="4682" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="195" name="btnStageLength"/>      
+      <multiplicity id="196" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="197">    
+    <bendpoint x="4955" y="1719"/>    
+    <bendpoint x="4955" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="198" name="btnGameStartLength"/>      
+      <multiplicity id="199" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="200">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="201" name="btnArmoryShopPosition"/>      
+      <multiplicity id="202" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="203">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <association id="204">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="205" name="btnBackPosition"/>      
+      <multiplicity id="206" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="207">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="208" name="imgElapsedTime"/>      
+      <multiplicity id="209" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="210">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="211" name="btnGameStartPosition"/>      
+      <multiplicity id="212" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="213">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="214">    
+    <bendpoint x="4724" y="1719"/>    
+    <bendpoint x="4724" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="215" name="notAvailableLength"/>      
+      <multiplicity id="216" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="217">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="218" name="view"/>      
+      <multiplicity id="219" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="220">    
+    <bendpoint x="470" y="1719"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="221">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="222" name="damageEffectTimer"/>      
+      <multiplicity id="223" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="224">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="225">    
+    <bendpoint x="4850" y="1719"/>    
+    <bendpoint x="4850" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="226" name="swordIconLength"/>      
+      <multiplicity id="227" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="228">    
+    <bendpoint x="4661" y="1719"/>    
+    <bendpoint x="4661" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="229" name="btnExitLength"/>      
+      <multiplicity id="230" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="231">    
+    <bendpoint x="4304" y="1719"/>    
+    <bendpoint x="4304" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="232" name="gunEffect"/>      
+      <multiplicity id="233" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="234">    
+    <bendpoint x="2783" y="3051"/>    
+    <bendpoint x="2783" y="3527"/>    
+    <bendpoint x="2783" y="3823"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="235" name="playerWeapon"/>      
+      <multiplicity id="236" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="237">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="238" name="btnInfoPosition"/>      
+      <multiplicity id="239" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="240">    
+    <bendpoint x="4978" y="1719"/>    
+    <bendpoint x="4978" y="2055"/>    
+    <bendpoint x="4978" y="3051"/>    
+    <bendpoint x="4978" y="3527"/>    
+    <bendpoint x="4978" y="3823"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="241" name="weapons"/>      
+      <multiplicity id="242" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="243">    
+    <bendpoint x="4262" y="2055"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="244" name="smallZombieLength"/>      
+      <multiplicity id="245" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="246">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="247" name="zombies"/>      
+      <multiplicity id="248" minimum="0" maximum="2147483647"/>    
+=======
+  <association id="115">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="116" name="honoka"/>      
+      <multiplicity id="117" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="118">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="119" name="kotori"/>      
+      <multiplicity id="120" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="121">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="122" name="itemManager"/>      
+      <multiplicity id="123" minimum="0" maximum="1"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+<<<<<<< HEAD
+  <association id="249">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="250" name="btnStartPosition"/>      
+      <multiplicity id="251" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="252">    
+    <bendpoint x="4619" y="1719"/>    
+    <bendpoint x="4619" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="253" name="txtCurrentStaminaLength"/>      
+      <multiplicity id="254" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="255">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="256">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="257" name="gameView"/>      
+      <multiplicity id="258" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="259">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="260">    
+    <bendpoint x="4934" y="1719"/>    
+    <bendpoint x="4934" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="261" name="hitLength"/>      
+      <multiplicity id="262" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="263">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="264" name="popupExitPosition"/>      
+      <multiplicity id="265" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="266">    
+    <bendpoint x="3229" y="2055"/>    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="267" name="zombieDeadEffectShow"/>      
+      <multiplicity id="268" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="269">    
+    <bendpoint x="4430" y="1719"/>    
+    <bendpoint x="4430" y="2055"/>    
+    <bendpoint x="4642" y="3051"/>    
+    <bendpoint x="4957" y="3527"/>    
+    <bendpoint x="4957" y="3823"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="270" name="ownWeapon"/>      
+      <multiplicity id="271" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="272">    
+    <bendpoint x="4829" y="1719"/>    
+    <bendpoint x="4829" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="273" name="btnInfoLength"/>      
+      <multiplicity id="274" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="275">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="276">    
+    <bendpoint x="4808" y="1719"/>    
+    <bendpoint x="4808" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="277" name="popupBtnCancelLength"/>      
+      <multiplicity id="278" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="279">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <realization id="280">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <association id="281">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="282" name="imgRemainStamina"/>      
+      <multiplicity id="283" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="284">    
+    <bendpoint x="4493" y="1719"/>    
+    <bendpoint x="4493" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="285" name="btnStartLength"/>      
+      <multiplicity id="286" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="287">    
+    <bendpoint x="430" y="3051"/>    
+    <bendpoint x="430" y="2055"/>    
+    <bendpoint x="430" y="1719"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="288">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="289" name="popupStaffInfoPosition"/>      
+      <multiplicity id="290" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="291">    
+    <bendpoint x="4745" y="1719"/>    
+    <bendpoint x="4745" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="292" name="btnArmoryShopLength"/>      
+      <multiplicity id="293" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="294">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <association id="295">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="296" name="heartIconPosition"/>      
+      <multiplicity id="297" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="298">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="299" name="hitPoints"/>      
+      <multiplicity id="300" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="301">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="302" name="popupBtnCancelPosition"/>      
+      <multiplicity id="303" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="304">    
+    <bendpoint x="3063" y="1719"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="305" name="touches"/>      
+      <multiplicity id="306" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="307">    
+    <bendpoint x="2293" y="3527"/>    
+    <bendpoint x="2470" y="3051"/>    
+    <bendpoint x="2916" y="2055"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="308">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="309" name="txtElapsedTimePosition"/>      
+      <multiplicity id="310" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="311">    
+    <bendpoint x="4388" y="1719"/>    
+    <bendpoint x="4388" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="312" name="swordEffect"/>      
+      <multiplicity id="313" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="314">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="315">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="316" name="deadEffectTimer"/>      
+      <multiplicity id="317" minimum="0" maximum="1"/>    
+=======
+  <nesting id="124">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <association id="125">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="126" name="countsoundeffect"/>      
+      <multiplicity id="127" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="128">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <generalization id="129">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <association id="130">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="131" name="view"/>      
+      <multiplicity id="132" minimum="0" maximum="1"/>    
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+<<<<<<< HEAD
+  <association id="318">    
+    <bendpoint x="2456" y="1719"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="319" name="damagedBackColorShow"/>      
+      <multiplicity id="320" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="321">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="322" name="koTimer"/>      
+      <multiplicity id="323" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="324">    
+    <bendpoint x="3683" y="2055"/>    
+    <bendpoint x="3683" y="3051"/>    
+    <bendpoint x="2804" y="3527"/>    
+    <bendpoint x="2804" y="3823"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="325" name="playerWeapon"/>      
+      <multiplicity id="326" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="327">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="328" name="gameOverMusic"/>      
+      <multiplicity id="329" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="330">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="331" name="txtTotalScorePosition"/>      
+      <multiplicity id="332" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="333">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="334" name="swordIconPosition"/>      
+      <multiplicity id="335" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="336">    
+    <bendpoint x="4703" y="1719"/>    
+    <bendpoint x="4703" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="337" name="popupBtnConfirmLength"/>      
+      <multiplicity id="338" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="339">    
+    <bendpoint x="4346" y="1719"/>    
+    <bendpoint x="4346" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="340" name="primaryWeaponEffect"/>      
+      <multiplicity id="341" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="342">    
+    <bendpoint x="4367" y="1719"/>    
+    <bendpoint x="4367" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="343" name="grenadeEffect"/>      
+      <multiplicity id="344" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="345">    
+    <bendpoint x="4451" y="1719"/>    
+    <bendpoint x="4451" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="346" name="txtStageClearLength"/>      
+      <multiplicity id="347" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="348">    
+    <bendpoint x="4913" y="1719"/>    
+    <bendpoint x="4913" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="349" name="txtElapsedTimeLength"/>      
+      <multiplicity id="350" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="351">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="352" name="txtStageClearPosition"/>      
+      <multiplicity id="353" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="354">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <association id="355">    
+    <bendpoint x="4283" y="1719"/>    
+    <bendpoint x="4283" y="2055"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="356" name="btnReleasedEffect"/>      
+      <multiplicity id="357" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="358">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="359" name="imgTotalScore"/>      
+      <multiplicity id="360" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="361">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="362">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="363" name="playerWeapon"/>      
+      <multiplicity id="364" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+=======
+  <nesting id="133">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <association id="134">    
+    <bendpoint x="2862" y="1043"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="135" name="taki"/>      
+      <multiplicity id="136" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="137">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

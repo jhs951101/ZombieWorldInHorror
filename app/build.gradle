@@ -1,0 +1,43 @@
+apply plugin: 'com.android.application'
+
+android {
+<<<<<<< HEAD
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+    defaultConfig {
+        applicationId "com.example.sharping.loveliveinhorror"
+        minSdkVersion 14
+        targetSdkVersion 25
+=======
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+    defaultConfig {
+        applicationId "com.example.catchmitsuhataki"
+        minSdkVersion 9
+        targetSdkVersion 23
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+<<<<<<< HEAD
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+=======
+    compile 'com.android.support:appcompat-v7:23.4.0'
+>>>>>>> 1a60af56df009f82d9e5594ae8a50f088694408e
+    testCompile 'junit:junit:4.12'
+}
